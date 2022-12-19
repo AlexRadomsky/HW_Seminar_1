@@ -1,0 +1,15 @@
+D:\Рабочий стол\task_6\bin\Debug\net6.0\task_6.exe
+D:\Рабочий стол\task_6\bin\Debug\net6.0\task_6.deps.json
+D:\Рабочий стол\task_6\bin\Debug\net6.0\task_6.runtimeconfig.json
+D:\Рабочий стол\task_6\bin\Debug\net6.0\task_6.dll
+D:\Рабочий стол\task_6\bin\Debug\net6.0\task_6.pdb
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.csproj.AssemblyReference.cache
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.AssemblyInfoInputs.cache
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.AssemblyInfo.cs
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.dll
+D:\Рабочий стол\task_6\obj\Debug\net6.0\refint\task_6.dll
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.pdb
+D:\Рабочий стол\task_6\obj\Debug\net6.0\task_6.genruntimeconfig.cache
+D:\Рабочий стол\task_6\obj\Debug\net6.0\ref\task_6.dll
